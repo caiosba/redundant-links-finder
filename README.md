@@ -5,7 +5,7 @@ A Google Chrome extension that looks for redundant links in a webpage. It normal
 
 ### Installation
 
-1. Save the CRX to computer: https://github.com/caiosba/redundant-links-finder/raw/master/extension/rlf.js.crx
+1. Save the CRX to computer: https://github.com/caiosba/redundant-links-finder/raw/master/extension/rlf.crx
 
 2. Open Chrome Extensions: chrome://extensions/
 
