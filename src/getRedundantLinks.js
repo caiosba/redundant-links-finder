@@ -8,7 +8,7 @@ function getRedundantLinksCount(document_root) {
         link = document_root.location.origin + link;
       }
       else {
-        if (link == '#' || /^\?/.test(link)) {
+        if (/^\?/.test(link)) {
           link = document_root.location.href + link;
         }
         else {
