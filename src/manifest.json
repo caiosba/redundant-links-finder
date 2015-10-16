@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Redundant Links Finder",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Look for redundant links in a webpage",
   "icons": { "16" : "icon16.png",
              "48" : "icon48.png",
