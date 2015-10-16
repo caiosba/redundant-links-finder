@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 69.506864 69.506864"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/caiosba/Meedan/redundant-links-finder/src/icon16.png"
+   inkscape:export-xdpi="20.717377"
+   inkscape:export-ydpi="20.717377">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.963736"
+     inkscape:cx="119.9683"
+     inkscape:cy="11.800356"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3843">
+      <path
+         id="path3845"
+         style="color:#000000;fill:#999999"
+         d="m -127.28,-391.22 v -60.411 h -52.004 l -46.808,13.214 h -5 v -8.9286 c 0,-22.333 18.422,-40.719 40.75,-40.719 h 63.062 v -11.25 h -176.28 v 108.09 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3824"
+     transform="translate(-25.381596,2.1719105)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3008"
+       y="65.448929"
+       x="16.140902"
+       style="font-size:105.0116272px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f1caff;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="65.448929"
+         x="16.140902"
+         id="tspan3010"
+         sodipodi:role="line">=</tspan></text>
+    <g
+       style="stroke:#b50000"
+       transform="translate(-1.257941,0.1487032)"
+       id="g3012">
+      <g
+         style="stroke:#b50000"
+         id="layer1"
+         transform="matrix(0.2589931,0,0,0.2589931,19.035945,-93.422567)">
+        <rect
+           id="rect3796"
+           style="color:#000000;fill:none;stroke:#b50000;stroke-width:20"
+           transform="matrix(-1,0,0,-1,-27.857,0)"
+           clip-path="url(#clipPath3843)"
+           rx="23.233999"
+           ry="23.233999"
+           height="46.466999"
+           width="109.54"
+           y="-470.57001"
+           x="-277.23001" />
+        <use
+           style="stroke:#b50000"
+           id="use3832"
+           xlink:href="#rect3796"
+           transform="matrix(-1,0,0,-1,327.09,894.66)"
+           height="1052.3622"
+           width="744.09448"
+           y="0"
+           x="0" />
+      </g>
+      <g
+         style="stroke:#b50000"
+         transform="matrix(0.2589931,0,0,0.2589931,19.035945,-73.422566)"
+         id="g3002">
+        <rect
+           x="-277.23001"
+           y="-470.57001"
+           width="109.54"
+           height="46.466999"
+           ry="23.233999"
+           rx="23.233999"
+           clip-path="url(#clipPath3843)"
+           transform="matrix(-1,0,0,-1,-27.857,0)"
+           style="color:#000000;fill:none;stroke:#b50000;stroke-width:20"
+           id="rect3004" />
+        <use
+           style="stroke:#b50000"
+           x="0"
+           y="0"
+           width="744.09448"
+           height="1052.3622"
+           transform="matrix(-1,0,0,-1,327.09,894.66)"
+           xlink:href="#rect3796"
+           id="use3006" />
+      </g>
+    </g>
+  </g>
+  <rect
+     style="opacity:0.38999999;fill:none;stroke:none"
+     id="rect3822"
+     width="69.506866"
+     height="69.506866"
+     x="-3.5527137e-15"
+     y="-2.4927201e-06"
+     rx="0"
+     ry="0" />
+</svg>
