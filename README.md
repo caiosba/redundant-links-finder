@@ -1,7 +1,7 @@
 Redundant Links Finder - Chrome Extension
 =============================================
 
-A Google Chrome extension that looks for redundant links in a webpage. It does so by following redirects, checking the `Location` response header, normalizing it and finally comparing with the current page.
+A Google Chrome extension that looks for redundant links in a webpage. It normalizes the `href` of all `A` tags and compare them.
 
 ### Installation
 
